@@ -1,4 +1,3 @@
-
 # Island Perimeter
 
 ## About this project:
